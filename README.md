@@ -110,6 +110,7 @@
 | [0045-jump-game-ii](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0062-unique-paths) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0048-rotate-image](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -211,4 +213,8 @@
 | [0043-multiply-strings](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -39,4 +39,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

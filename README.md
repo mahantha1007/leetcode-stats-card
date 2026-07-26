@@ -50,6 +50,7 @@
 | [0085-maximal-rectangle](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |

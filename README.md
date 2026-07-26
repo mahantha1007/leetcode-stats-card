@@ -44,6 +44,7 @@
 | [0075-sort-colors](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0042-trapping-rain-water](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

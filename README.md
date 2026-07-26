@@ -51,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0096-unique-binary-search-trees](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |

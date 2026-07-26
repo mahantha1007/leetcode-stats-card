@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,8 +99,17 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0023-merge-k-sorted-lists) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

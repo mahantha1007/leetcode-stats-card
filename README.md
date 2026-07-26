@@ -16,6 +16,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mahantha1007/leetcode-stats-card/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
